@@ -1,1 +1,8 @@
-1	Income	Job money	2026/10/20	test	R500.00
+1	Expense	Transport	10/21/2026		R500.00
+2	Income	Allowance	10/21/2026		R150.00
+3	Income	Allowance	10/21/2026		R150.00
+4	Income	Allowance	10/21/2026	Teest	R20.00
+5	Expense	Entertainment	10/21/2026	Movies	R450.00
+6	Income	Job money	10/21/2026	Working for my uncle	R600.00
+7	Income	Gift	10/21/2026	Juice gave me money	R250.00
+8	Income	Gift	10/22/2026	test	R500.00
